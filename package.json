@@ -1,0 +1,16 @@
+{
+  "name": "@takeamos/glacier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madeline <maddie@qnzl.co>",
+  "license": "MIT",
+  "dependencies": {
+    "merkle-tools": "^1.4.1",
+    "mtree": "^1.0.1",
+    "yazl": "^2.5.1"
+  }
+}
